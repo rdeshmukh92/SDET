@@ -123,4 +123,4 @@ I built this project to demonstrate practical SDET skills in API automation, bac
 
 I am a Senior QA Automation Engineer / SDET with experience in Selenium, Playwright, REST Assured, Java, Python, SQL, Jenkins, Azure DevOps, and Agile testing practices.
 
-LinkedIn: Add your LinkedIn URL here
+LinkedIn: https://www.linkedin.com/in/ritika-deshmukh-811ba659/
